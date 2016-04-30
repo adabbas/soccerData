@@ -6,4 +6,4 @@
 
 # API token
 
-d50cec61e40f4b05b29390e565949b3f
+use your personal token
